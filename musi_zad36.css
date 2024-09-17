@@ -10,23 +10,23 @@ div {
  }
 h1 {
  margin : 20px;
-border-top: 2px dotted red;
-border-left: 2px dashed green;
-border-right: 2px double blue;
-border-bottom: 2px ridge magenta;
- background : rgb(238,130,238);
+border-top: 2px dashed blue;
+border-left: 2px inset red;
+border-right: 2px ridge yellow;
+border-bottom: 2px solid purple;
+ background : rgb(192,168,255);
  }
 h2 {
 margin : 30px;
-border : 3px solid black;
-border-top-color: magenta;
-border-right-color: aqua;
-border-left-color: lime;
-border-bottom-color: pink;
-background : rgb(244,164,96);
+border : 7px groove black;
+border-top-color: aqua;
+border-right-color: purple;
+border-left-color: green;
+border-bottom-color: blue;
+background : rgb(192,255,0);
 }
 h3 {
 margin : 35px;
-border : 5px solid black;
-background : rgb(240,128,128);
+border : 9px solid black;
+background : rgb(255,64,129);
 }
